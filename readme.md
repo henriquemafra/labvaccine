@@ -11,12 +11,11 @@ O LABVaccine resolve o problema de controle e gerenciamento das administrações
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- H2 Database (para desenvolvimento)
 - PostgreSQL (para produção)
 - Maven
 
 ## Como Executar
-1. Clone o repositório do projeto: `git clone https://github.com/seu-usuario/vacinamanager.git`
+1. Clone o repositório do projeto: `git clone https://github.com/henriquemafra/labvaccine`
 2. Importe o projeto em sua IDE de preferência (Eclipse, IntelliJ IDEA, etc.)
 3. Configure o banco de dados de acordo com suas preferências (H2 para desenvolvimento ou PostgreSQL para produção)
 4. Execute o projeto como uma aplicação Spring Boot
